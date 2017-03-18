@@ -1,2 +1,2 @@
 # BranchTesting
-This is used to see what is created while creating new branches and adding changes.  We will see when commit number changes, branch number changes, and what happens when we pull - merge.   We will always add a README file (which can also be a license file in the future).
+This message USED to contain another message - of which I have overwritten with this message to see how the change looks affter a full commit, pull requrest, merge - what happens where and when!
